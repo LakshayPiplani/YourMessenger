@@ -11,7 +11,7 @@ YourMessenger
 |    +-- client.py
 |    +-- clientLab.pkl
 |    +--clientTxt.pkl
-|    +-- dp.py
+|    +-- do.py
 |    +-- logindesign2.py
 |
 +-- client 1
@@ -20,7 +20,7 @@ YourMessenger
 |    +-- client.py
 |    +-- clientLab.pkl
 |    +--clientTxt.pkl
-|    +-- dp.py
+|    +-- do.py
 |    +-- logindesign2.py
 |  
 +-- chatserver2-bernb.py 
