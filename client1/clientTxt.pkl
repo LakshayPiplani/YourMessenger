@@ -1,0 +1,10 @@
+(lp1
+S'hey are you good'
+p2
+aS'how are you'
+p3
+aS'hope you are doing good'
+p4
+aS'i am fine thank you'
+p5
+a.
